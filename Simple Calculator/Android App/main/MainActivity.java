@@ -8,6 +8,7 @@ import android.widget.TextView;
 import java.util.Stack;
 
 /**
+ * 因为时间缘故，所以还有很多问题
  * 待完善：
  * 输入数据带有小数
  * 点击clear清空栈
@@ -15,6 +16,7 @@ import java.util.Stack;
  * 支持负数
  * 判断表达式错误显示error
  * 超过一位数的输入
+ * 还有一些计算错误的情况，待解决
  * 连续计算，即可以直接用上式的计算结果
  * 输入')'时已经表示结算，是否有必要进行相关复杂判断
  * 简化过程
